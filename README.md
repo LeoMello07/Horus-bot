@@ -1,4 +1,4 @@
-# Dodo Bot!
+# Jarvis Bot!
 
 This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
 
