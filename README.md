@@ -1,15 +1,15 @@
-# Title of Project
+# Dodo Bot!
 
-Brief description of the project.
+This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
 
-## Installation
+## Add to server
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Not yet! :]
 
 ```bash
 pip install foobar
 ```
-
+```
 ## Usage
 
 ```python
@@ -24,6 +24,6 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
+```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
