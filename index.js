@@ -1,8 +1,8 @@
-const botconfigs = require("./botconfig.json");
+const botconfigs = require("./botconfigs.json");
 const Discord = require("discord.js");   //Discord API with DiscordJS required
 const bot = new Discord.Client({ disableEveryone: true });     //Bot initiation
 
-const { prefix, token } = require('./botconfig.json');
+const { prefix, token } = require('./botconfigs.json');
 bot.login(botconfigs.token);
 
 bot.on("ready", async () => {
