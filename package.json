@@ -1,5 +1,5 @@
 {
-  "name": "1.0.0",
+  "name": "Horus-bot",
   "version": "1.0.0",
   "description": "A bot for Discord",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luizeduardomr/DodoBot.git"
+    "url": "git+https://github.com/luizeduardomr/Horus-bot"
   },
   "author": "luizeduardomr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luizeduardomr/DodoBot/issues"
+    "url": "https://github.com/luizeduardomr/Horus-bot/issues"
   },
-  "homepage": "https://github.com/luizeduardomr/DodoBot#readme",
+  "homepage": "https://github.com/luizeduardomr/Horus-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0"
   }
