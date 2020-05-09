@@ -1,4 +1,4 @@
-# Jarvis Bot!
+# Horus Bot!
 
 This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
 
