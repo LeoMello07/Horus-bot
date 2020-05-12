@@ -25,7 +25,7 @@ Once you have NodeJS installed, running `npm install` from the bot directory sho
 After installing all dependencies, open your terminal and type `node .` to run the bot project.
 </br>
 <br>
-⚠️⚠️ Remember to create your application at <a href="https://discord.com/developers/applications">Discord/developer</a>, taking your bot's Token and adding it to `bot.login(yourToken);`
+Remember to create your application at <a href="https://discord.com/developers/applications">Discord/developer</a>, taking your bot's Token and adding it to `bot.login(yourToken);`
 
 # TODO:
 
