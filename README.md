@@ -2,13 +2,13 @@
     <img alt="HorusBot" title="#horusbot" src=".github/githubHorus.png" />
 </h1>
 
-This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
-Yes, it's the default tumblr avatar. But it's so cuteeee! 😍🥺
-
-
-
 # Horus Bot
 A chat bot for Discord app based off <a href="https://github.com/hydrabolt/discord.js/">discord.js</a>.
+This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
+Yes, it's the default tumblr avatar. But it's so cute! 🥺
+</br>
+</br>
+Some files and code snippets have been removed to maintain the integrity and security of the project.
 
 
 # Features:
